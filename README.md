@@ -7,14 +7,14 @@ Date: April 16th, 2023
 
 ## Description
 
-This application uses CCM's Provider API to allow users to search for pre-approved medical providers and facilities based on location and a number of other parameters.
+A blog-style web application with users, posts, and comments for PNW explorers with added to-do functionality.
 
 ## Technologies Used
 
-- JSX
-- CSS/Bootstrap
+- CSS
 - JavaScript
 - React.js
-- Collabsible
+- React Router
 - Async/await
-- Fetch API
+- Axios
+- Mock JSON API

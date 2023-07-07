@@ -1,8 +1,8 @@
 # Nature's Northwest
 
-![image](https://github.com/carson-haskell/natures-northwest/blob/master/home.png)
+![image](https://github.com/Carson-Haskell/natures-northwest/blob/main/home.png)
 
-created by: Carson Haskell
+Created by: Carson Haskell
 Date: April 16th, 2023
 
 ## Description
